@@ -5,11 +5,10 @@ This project is about processing modeling using LDA in order to group story frag
 # Pre-requisites
 Its necessary have to install the python 3x or higher and have the libraries installed below (in some cases anaconda requires installation with conda install name-library)
 
-
 # Install unicodedata
 The library will helps in Cleaning to remove all ASCII and the majority ponctuations 
 
-pip install unicodedata or conda install unicodedata 
+<code>pip install unicodedata</code> or <code>conda install unicodedata</code>
 
 # Install NLTK 
 NLTK(Natural Language Toolkit)
