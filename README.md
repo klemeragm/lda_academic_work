@@ -1,15 +1,13 @@
 # lda_academic_work
 This is my repository of my final work and some files about the them of the same. 
 
-
-Este projeto é sobre modelagem de tópicos usando o LDA com o intuito de agrupar fragmentos de histórias usando técnicas de pré-processamento e a modelagem de tópicos
-
-
+This project is about processing modeling using LDA in order to group story fragments using pre-processing techniques and storage modeling
 
 Its necessary have to install the python 3x or higher
-É necessário ter o Jupyter Notebook ou um editor de python 3x ou superior
 
-Ter as bibliotecas instaladas abaixo (caso o anaconda requisite a instalação)
+
+
+Have the libraries installed below (in some cases anaconda requires installation with conda install name-library)
 
 
 # Install unicodedata
@@ -35,9 +33,9 @@ nltk.download('wordnet')
 pip install WordCloud or conda install WorldCloud
 
 # Install pyLDAvis
-conda install pyLDAVis
-import pyLDAvis 
+The Library can help evaluate the model in the clusters. In this project we can use inline the aplication to validate the entraces of the model. 
 
+pip install pyLDAvis or conda install pyLDAVis 
 
 
 
