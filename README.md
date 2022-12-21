@@ -11,7 +11,11 @@ The library will helps in Cleaning to remove all ASCII and the majority ponctuat
 
 pip install unicodedata or conda install unicodedata 
 
-# Install NLTK To Lemmatize and Stemer the sentences and cut the language stems 
+# Install NLTK 
+NLTK(Natural Language Toolkit)
+
+<href="https://www.nltk.org/book/">Natural Language Processing with Python</a> provides a practical introduction to programming for language processing.
+To Lemmatize and Stemer the sentences and cut the language stems 
 
 pip install nltk 
 
