@@ -17,25 +17,25 @@ NLTK(Natural Language Toolkit)
 <a href="https://www.nltk.org/book/">Natural Language Processing with Python</a> provides a practical introduction to programming for language processing.
 To Lemmatize and Stemer the sentences and cut the language stems 
 
-pip install nltk 
+<code>pip install nltk</code> 
 
 # Installing required packages
 
 After NLTK has been downloaded, install required packages
 
-import nltk
+<code>import nltk
 from nltk.stem import WordNetLemmatizer
 nltk.download('popular', quiet=True) # for downloading popular packages
 nltk.download('punkt') 
-nltk.download('wordnet') 
+nltk.download('wordnet')</code> 
 
 # Install the world cloud package to mapping and use the EDA Techniques to view the words
-pip install WordCloud or conda install WorldCloud
+<code>pip install WordCloud</code> or <code>conda install WorldCloud</code>
 
 # Install pyLDAvis
 The Library can help evaluate the model in the clusters. In this project we can use inline the aplication to validate the entraces of the model. 
 
-pip install pyLDAvis or conda install pyLDAVis 
+<code>pip install pyLDAvis</code> or <code>conda install pyLDAVis</code> 
 
 
 
