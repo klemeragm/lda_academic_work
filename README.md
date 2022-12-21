@@ -1,13 +1,9 @@
 # lda_academic_work
 This is my repository of my final work and some files about the them of the same. 
-
 This project is about processing modeling using LDA in order to group story fragments using pre-processing techniques and storage modeling
 
-Its necessary have to install the python 3x or higher
-
-
-
-Have the libraries installed below (in some cases anaconda requires installation with conda install name-library)
+# Pre-requisites
+Its necessary have to install the python 3x or higher and have the libraries installed below (in some cases anaconda requires installation with conda install name-library)
 
 
 # Install unicodedata
